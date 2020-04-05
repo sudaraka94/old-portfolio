@@ -1,10 +1,10 @@
 # Site
 repository: sudaraka94/sudaraka94.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Personal info
 name: Sudaraka Jayathilaka
-title: Software Engineer
+title: Sudaraka Jayathilaka
 email: sudarakayasindu@gmail.com
 # phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
@@ -39,7 +39,7 @@ linkedin_username: sudarakajayathilaka
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-162809501-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)

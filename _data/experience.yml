@@ -1,10 +1,11 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: Liberty Wireless Pte Ltd
+  link: https://www.circles.life
+  job_title: Software Engineer
+  dates: January 2019 - Present
+  description: | # this will include new lines to allow paragraphs    
+    - Migrated all backend services onto an API Gateway (Kong)
+    - Wrote custom plugins for API Gateway to handle authentication on API Gateway using Lua
+    - Contributed in building the Scheduler Platform which allowed other systems to schedule events and currently acting as the platform owner of the Scheduler Increased the platform reliability in the scheduler platform. (No issues has been reported since 6 months)
+    - Worked on several FinTech products and an authentication management service

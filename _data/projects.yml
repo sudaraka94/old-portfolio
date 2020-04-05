@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Citation Generator for FreeCEN and FreeREG
+  link: https://summerofcode.withgoogle.com/archive/2018/projects/5136048057221120
+  github: https://github.com/FreeUKGen
+  # quote: >
+  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Free UK Genealogy provides free, online access to family history records. When referring to family history data, it's vital to show how those data was retrieved. This project aimed the automatic generation of citations for genealogy records in formats such as MLA, Chicago, IEEE.
